@@ -1,5 +1,5 @@
 
-from user import User
+from lesson_02.user import User
 from lesson_04.card import Card
 
 marta = User("Marta")
